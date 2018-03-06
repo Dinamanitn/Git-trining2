@@ -1,2 +1,3 @@
 this is a sample text file for Git command practice
 second changes for demo purpose
+third change for testing feature branch1
